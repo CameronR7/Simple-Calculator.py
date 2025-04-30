@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Caculator_App", "Caculator_App.pyproj", "{D6905F9C-07BF-40E0-83EF-E51C2F1B9D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6905F9C-07BF-40E0-83EF-E51C2F1B9D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6905F9C-07BF-40E0-83EF-E51C2F1B9D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6ED9E1A-94E6-47BB-B857-6ABE97BD0B2C}
+	EndGlobalSection
+EndGlobal
